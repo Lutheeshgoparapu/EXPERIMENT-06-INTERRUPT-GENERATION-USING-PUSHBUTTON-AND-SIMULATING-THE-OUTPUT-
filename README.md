@@ -87,7 +87,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 
 ## CIRCUIT DIAGRAM 
- ![2023-05-22](https://github.com/Lutheeshgoparapu/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154531/a4209280-11e1-423f-b6dd-e6af757ecfc0)
+![image](https://github.com/Lutheeshgoparapu/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94154531/5f1f6c4f-c6c7-4611-93d4-6150227c5078)
 
 
 ## STM 32 CUBE PROGRAM :
